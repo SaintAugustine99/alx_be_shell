@@ -1,3 +1,9 @@
-The script prints the effective username of the current user.
-The script prints the effective username of the current user.
-The script creates an empty file called 'hello'.
+# Project Description
+
+## Scripts
+1. `0-iam_betty`: Switches the current user to `betty`.
+2. `1-who_am_i`: Prints the effective username of the current user.
+3. `4-empty`: Creates an empty file called `hello`.
+4. `5-execute`: Adds execute permission to the owner of the file `hello`.
+5. `6-multiple_permissions`: Adds execute permission to the owner and group owner, and read permission to others for the file `hello`.
+6. `9-John_Doe`: Sets the mode of the file `hello` to `-rwxr-x-wx`.
